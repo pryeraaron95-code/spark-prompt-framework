@@ -350,12 +350,6 @@ Attribution is appreciated but not required.
 
 ---
 
-## Portfolio Summary
-
-SPARK is a human-friendly AI prompting framework that turns vague requests into clearer instruction briefs. The updated version keeps the original simplicity, while adding modern safeguards around evidence, source scope, accessibility, structured outputs, uncertainty and validation.
-
----
-
 <p align="center">
 <img src="images/spark-poster.png" width="750" alt="Visual overview of the SPARK prompting framework">
 </p>
